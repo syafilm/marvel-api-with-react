@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'OpenSans Semibold';
+  src: url("./assets/fonts/OpenSans-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: 'OpenSans Bold';
+  src: url("./assets/fonts/OpenSans-Bold.ttf");
+}
+
+
+html, body{
+  color: #000;
+  font-family: 'OpenSans Semibold';
+  background: #f3f3f4;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'OpenSans Bold';
+}
+
+.text-read{
+  color:rgba(0, 0, 0, 0.3) !important;
+}
+

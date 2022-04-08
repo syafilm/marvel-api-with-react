@@ -1,0 +1,8 @@
+authtoken: 25DNpcLlodB8MEVmWxdBBJiiHNd_4VCPjuabvYfz2BB92nNh7
+tunnels:
+  anyTunnelName:
+    proto: http
+    addr: https://localhost:3000
+    bind_tls: true
+    subdomain: casting-workbook-test
+    host_header: localhost
